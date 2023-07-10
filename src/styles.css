@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(218, 247, 218);
+  font-family: sans-serif;
+}
+h1 {
+  padding: 12px 12px 12px 6px;
+  text-align: center;
+  border-bottom: 2px solid lightsalmon;
+  text-decoration: lightsalmon;
+}
+
+button {
+  color: rgb(218, 247, 218);
+  background-color: lightsalmon;
+}
